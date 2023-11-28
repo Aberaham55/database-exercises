@@ -1,4 +1,5 @@
 USE hippo_abe;
+TRUNCATE Albums;
 
 INSERT INTO Albums (artist, name, release_date, sales, genre)
 VALUES ('Michael Jackson', 'Thriller', 1982, 70, 'pop'),
