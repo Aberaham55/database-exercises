@@ -50,4 +50,3 @@ WHERE year(hire_date) BETWEEN 1990 AND 1999
   AND DAY(birth_date) = 25;
 
 
-
