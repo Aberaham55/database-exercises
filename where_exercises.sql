@@ -19,3 +19,4 @@ where last_name like ('%q%')
   and last_name NOT LIKE '%qu%';
 
 
+
